@@ -1,0 +1,14 @@
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\bin\Debug\netcoreapp3.1\User-Serialize.exe
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\bin\Debug\netcoreapp3.1\User-Serialize.deps.json
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\bin\Debug\netcoreapp3.1\User-Serialize.runtimeconfig.json
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\bin\Debug\netcoreapp3.1\User-Serialize.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\bin\Debug\netcoreapp3.1\User-Serialize.dll
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\bin\Debug\netcoreapp3.1\User-Serialize.pdb
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.AssemblyInfo.cs
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.dll
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.pdb
+C:\Users\agilab\source\repos\User-Serialize\User-Serialize\obj\Debug\netcoreapp3.1\User-Serialize.genruntimeconfig.cache
